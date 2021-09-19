@@ -1,3 +1,4 @@
+s=123
 def correctness(table,val,row,col):
     for i in range(9):
         if table[row][i]==val:
